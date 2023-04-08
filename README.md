@@ -8,7 +8,7 @@ https://wikidocs.net/book/7601
 - [x] 2-04
 - [x] 2-05
 - [x] 2-06
-- [ ] 2-07
+- [x] 2-07
 - [ ] 2-08
 - [ ] 2-09
 - [ ] 2-10
@@ -41,3 +41,4 @@ https://wikidocs.net/book/7601
 - 2-04 : Entity(ORM클래스)선언 각 속성을 선언했으며 1:N일땐 OneToMany 등등 선언하여 외래결속
 - 2-05 : SpringBootTest기능활용 Jpa sql쿼리문 사용법을 알아봄
 - 2-06 : 리팩토링(도메인별 파일분류 answer, question, user)
+- 2-07 : 타임리프속성 알아보기 질문목록제작
