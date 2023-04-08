@@ -3,7 +3,7 @@ https://wikidocs.net/book/7601
 **Spring Boot Board**
 
 - [x] 2-01
-- [ ] 2-02
+- [x] 2-02
 - [ ] 2-03
 - [ ] 2-04
 - [ ] 2-05
@@ -18,8 +18,7 @@ https://wikidocs.net/book/7601
 - [ ] 2-14
 - [ ] 2-15
 - [ ] 2-16
-
-
+***
 - [ ] 3-01
 - [ ] 3-02
 - [ ] 3-03
@@ -34,3 +33,7 @@ https://wikidocs.net/book/7601
 - [ ] 3-12
 - [ ] 3-13
 - [ ] 3-14
+***
+이해가 안가서 직접하는 2회차
+소단원별 한줄정리 및 평가
+- 2-02 : controller의 개념(responsebody 및 getmapping과 controller어노테이션)
