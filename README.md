@@ -12,8 +12,8 @@ https://wikidocs.net/book/7601
 - [x] 2-08
 - [x] 2-09
 - [x] 2-10
-- [ ] 2-11
-- [ ] 2-12
+- [x] 2-11
+- [x] 2-12
 - [ ] 2-13
 - [ ] 2-14
 - [ ] 2-15
@@ -46,4 +46,5 @@ https://wikidocs.net/book/7601
 - 2-09 : Service추가 -> Controller에서 QuestionRepository 직접선언 제거
 - 2-10 : controller(Model model) -> model.addAttribute("변수명","값") ->
 html에 있는 ${Question << 여기로 값이 전부 넘어와서 그대로 값이 정리됨 대충 이런느낌인데 정확히는 아직 모호함
-- 2-11 : 
+- 2-11 : form을 통해 입력한 th:action을 post형태로 보낸 후 값 처리
+- 2-12 : 스태틱디렉터리에 css같은 파일을 넣음
