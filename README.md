@@ -4,7 +4,7 @@ https://wikidocs.net/book/7601
 
 - [x] 2-01
 - [x] 2-02
-- [ ] 2-03
+- [x] 2-03
 - [ ] 2-04
 - [ ] 2-05
 - [ ] 2-06
@@ -37,3 +37,5 @@ https://wikidocs.net/book/7601
 이해가 안가서 직접하는 2회차
 소단원별 한줄정리 및 평가
 - 2-02 : controller의 개념(responsebody 및 getmapping과 controller어노테이션)
+- 2-03 : build.gradle, app.properties 설정 추가(jpa, db관련)
+- 

@@ -1,0 +1,15 @@
+# DB 생성
+DROP DATABASE IF EXISTS sbb__dev;
+CREATE DATABASE sbb__dev;
+USE sbb__dev;
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+TRUNCATE answer;
+TRUNCATE question;
+
+SET FOREIGN_KEY_CHECKS = 1;
+
+SHOW TABLES
+
+DESC site_user
