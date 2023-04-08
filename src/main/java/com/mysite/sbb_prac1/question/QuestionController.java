@@ -11,11 +11,13 @@ import java.util.List;
 @RequiredArgsConstructor
 @Controller
 public class QuestionController {
-    private final QuestionRepository questionRepository;
 
+    private final QuestionService questionService;
+    // private final QuestionRepository questionRepository; 이 값이 Service로 옮겨짐
+    // 사라진 이유 : 리포지터리에 직접접근을 못하게 막기 위함
     @GetMapping("/question/list")
     public String list(Model model){
-        List<Question> questionList = questionRepository.findAll();
+        List<Question> questionList = questionService.getList();
         model.addAttribute("questionList", questionList);
         return "question_list";
     }

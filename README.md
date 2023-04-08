@@ -10,7 +10,7 @@ https://wikidocs.net/book/7601
 - [x] 2-06
 - [x] 2-07
 - [x] 2-08
-- [ ] 2-09
+- [x] 2-09
 - [ ] 2-10
 - [ ] 2-11
 - [ ] 2-12
@@ -43,3 +43,4 @@ https://wikidocs.net/book/7601
 - 2-06 : 리팩토링(도메인별 파일분류 answer, question, user)
 - 2-07 : 타임리프속성 알아보기 질문목록제작
 - 2-08 : ROOT URL추가
+- 2-09 : Service추가 -> Controller에서 QuestionRepository 직접선언 제거
