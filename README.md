@@ -38,4 +38,4 @@ https://wikidocs.net/book/7601
 소단원별 한줄정리 및 평가
 - 2-02 : controller의 개념(responsebody 및 getmapping과 controller어노테이션)
 - 2-03 : build.gradle, app.properties 설정 추가(jpa, db관련)
-- 
+- 2-04 : Entity(ORM클래스)선언 각 속성을 선언했으며 1:N일땐 OneToMany 등등 선언하여 외래결속
