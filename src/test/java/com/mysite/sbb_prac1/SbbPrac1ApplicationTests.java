@@ -1,5 +1,7 @@
 package com.mysite.sbb_prac1;
 
+import com.mysite.sbb_prac1.question.Question;
+import com.mysite.sbb_prac1.question.QuestionRepository;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
