@@ -11,7 +11,7 @@ https://wikidocs.net/book/7601
 - [x] 2-07
 - [x] 2-08
 - [x] 2-09
-- [ ] 2-10
+- [x] 2-10
 - [ ] 2-11
 - [ ] 2-12
 - [ ] 2-13
@@ -44,3 +44,6 @@ https://wikidocs.net/book/7601
 - 2-07 : 타임리프속성 알아보기 질문목록제작
 - 2-08 : ROOT URL추가
 - 2-09 : Service추가 -> Controller에서 QuestionRepository 직접선언 제거
+- 2-10 : controller(Model model) -> model.addAttribute("변수명","값") ->
+html에 있는 ${Question << 여기로 값이 전부 넘어와서 그대로 값이 정리됨 대충 이런느낌인데 정확히는 아직 모호함
+- 2-11 : 
