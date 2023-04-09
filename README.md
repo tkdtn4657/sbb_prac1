@@ -69,4 +69,6 @@ java.lang.NullPointerException: Cannot invoke "com.mysite.sbb_prac1.user.UserSer
 ```
 에러 발생해서 정신나갈뻔... 원인은 Controller에 있는 final선언을 안해줘서 그랬었음. 수정사항 확인하면 될듯?
 
-1/4 완료
+질문삭제는 그램그램에서 했던거도 있고 해서 약간은 이해가 쉬웠다
+
+2/4 완료
