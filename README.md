@@ -71,4 +71,6 @@ java.lang.NullPointerException: Cannot invoke "com.mysite.sbb_prac1.user.UserSer
 
 질문삭제는 그램그램에서 했던거도 있고 해서 약간은 이해가 쉬웠다
 
-2/4 완료
+답변수정은 수정부분이 항상 어떻게 연결되는지 이해가 잘 안간다. 형태가 헷갈림 어떻게 기존에 있는 텍스트를 받아와서 수정이 가능한지? 이런거
+
+3/4 완료
