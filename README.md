@@ -28,7 +28,7 @@ https://wikidocs.net/book/7601
 - [x] 3-07
 - [x] 3-08
 - [x] 3-09
-- [ ] 3-10
+- [x] 3-10
 - [ ] 3-11
 - [ ] 3-12
 - [ ] 3-13
@@ -73,4 +73,5 @@ java.lang.NullPointerException: Cannot invoke "com.mysite.sbb_prac1.user.UserSer
 
 답변수정은 수정부분이 항상 어떻게 연결되는지 이해가 잘 안간다. 형태가 헷갈림 어떻게 기존에 있는 텍스트를 받아와서 수정이 가능한지? 이런거
 
-3/4 완료
+답변삭제는 조금 신경쓰면 내가 만들수도 있을듯..? 그나마 할만함
+- 3-11 :
